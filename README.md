@@ -30,11 +30,8 @@ const reyhan = {
 
 ---
 
-
-## ✦ Contributions
-
 <div align="center">
 
-<img src="https://ghchart.rshah.org/ff4ecd/0d1117/reyhanmills" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=reyhanmills&theme=radical&hide_border=true&background=00000000&ring=FF4ECD&fire=FF4ECD&currStreakLabel=FF4ECD" height="150"/>
 
 </div>
