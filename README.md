@@ -181,9 +181,3 @@ STACK: React • TypeScript • CSS
 </div>
 ---
 
-<div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,100:ff4ecd&height=120&section=footer" />
-
-</div>
