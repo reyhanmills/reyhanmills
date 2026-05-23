@@ -36,6 +36,6 @@ const reyhan = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=reyhanmills&theme=radical&hide_border=true&background=00000000&ring=FF4ECD&fire=FF4ECD&currStreakLabel=FF4ECD" />
+[![Reyhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reyhanmills&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/reyhanmills)
 
 </div>
