@@ -1,11 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4ecd,100:6c63ff&height=220&section=header&text=Hi,%20I'm%20Reyhan%20✨&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20•%20Full%20Stack%20Developer%20•%20CEIT%20Student&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=%3E%20Hi,%20I'm%20Reyhan%20%E2%99%A5&fontSize=55&fontColor=ff4ecd&animation=fadeIn&fontAlignY=45&desc=AI%20Enthusiast%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20CEIT%20Student&descSize=18&descAlignY=72" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF4ECD&center=true&vCenter=true&width=700&lines=I+build+AI-powered+products;Full+Stack+Developer+in+progress;TypeScript+%7C+JavaScript+%7C+React+%7C+Spring+Boot;Turning+ideas+into+real+applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF4ECD&center=true&vCenter=true&width=750&lines=TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Spring+Boot;Turning+ideas+into+real+applications;Always+building+%7C+Always+learning" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=☾%20✦%20✧%20✦%20☽&fontSize=32&fontColor=ff4ecd&animation=twinkling" />
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,spring" />
 
 </div>
 
+---
+
+## ✦ About Me
 ---
 
 ## ✦ About Me
@@ -96,7 +103,6 @@ Retro Windows-inspired personal portfolio.
 
 <div align="center">
 
-### “First, solve the problem. Then, write the code.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,100:ff4ecd&height=120&section=footer" />
 
