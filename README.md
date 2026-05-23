@@ -30,20 +30,12 @@ const reyhan = {
 
 ---
 
-## ✦ Languages
+
+
+## ✦ Contributions
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanmills&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff4ecd" />
-
-</div>
-
----
-
-## ✦ Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reyhanmills&bg_color=0d1117&color=ff4ecd&line=ff4ecd&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=reyhanmills&theme=radical&hide_border=true&background=00000000&ring=FF4ECD&fire=FF4ECD&currStreakLabel=FF4ECD" />
 
 </div>
