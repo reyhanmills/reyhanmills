@@ -11,67 +11,51 @@
 </div>
 
 ---
-
-## ✦ About Me
----
-
-## ✦ About Me
-
-```ts
-const reyhan = {
-  field: "Computer Education and Instructional Technology",
-  focus: ["AI", "LLMs", "Full Stack Development", "EdTech"],
-  code: ["TypeScript", "JavaScript", "Java", "SQL"],
-  stack: ["React", "Spring Boot", "PostgreSQL", "Git"],
-  currentGoal: "Building useful, clean and creative tech projects",
-};
-```
-
----
-
-## ✦ Tech Stack
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,spring,java,postgres,git,github,vscode" />
+# ✦ SYSTEM STATUS ✦
+
+```ansi
+> booting developer profile...
+> loading creativity modules...
+> initializing AI obsession...
+> status: ONLINE ♥
+```
 
 </div>
-
----
-
-## ✦ Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 NLP Student Query System  
-AI-powered natural language to SQL system for student databases.  
-**Tech:** Spring Boot, PostgreSQL, Ollama
+## 🌙 whoami.exe
+
+```ts
+const reyhan = {
+  role: "Full Stack Developer",
+  focus: ["AI", "LLMs", "EdTech", "Creative Frontend"],
+  stack: ["TypeScript", "JavaScript", "React", "Spring Boot"],
+  currently: "Building things that make people say 'damn'",
+  energy: "coffee-powered ☕",
+  status: "always learning"
+};
+```
 
 </td>
+
 <td width="50%">
 
-### 🎓 Adaptive Learning AI  
-Personalized learning platform that adapts to students.  
-**Tech:** React, TypeScript, AI
+## 💗 neural stats
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🍽️ MacroLens  
-Food image calorie & macro analysis system.  
-**Tech:** Python, FastAPI, LLMs
-
-</td>
-<td width="50%">
-
-### 🖥️ reyOS Portfolio  
-Retro Windows-inspired personal portfolio.  
-**Tech:** React, TypeScript, CSS
+```txt
+problem solving     ███████████ 95%
+frontend obsession  ██████████  92%
+backend chaos       █████████   84%
+AI curiosity        ███████████ 99%
+sleep schedule      ██          14%
+```
 
 </td>
 </tr>
@@ -79,26 +63,122 @@ Retro Windows-inspired personal portfolio.
 
 ---
 
-## ✦ GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reyhanmills&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4ECD&icon_color=FF4ECD" />
+# ✦ TECH ARSENAL ✦
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanmills&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4ECD" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,spring,java,postgres,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## ✦ Vibe
+# 🚀 FEATURED MISSIONS
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 NLP Student Query System
+
+```txt
+AI-powered natural language → SQL platform
+for educators and student analytics.
+
+STATUS: DEPLOYED / TESTED / BUILT
+STACK: Spring Boot • PostgreSQL • Ollama
+```
+
+</td>
+
+<td width="50%">
+
+## 🎓 Adaptive Learning AI
+
+```txt
+Personalized AI learning platform that
+adapts to user behavior.
+
+STATUS: HACKATHON MODE ACTIVATED
+STACK: React • TypeScript • AI
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🍜 MacroLens
+
+```txt
+Food image calorie + macro analyzer
+with computer vision + LLM logic.
+
+STATUS: COOKING
+STACK: Python • FastAPI • Vision AI
+```
+
+</td>
+
+<td width="50%">
+
+## 🖥️ reyOS
+
+```txt
+Retro Windows-inspired developer portfolio
+because normal portfolios are boring.
+
+STATUS: PIXEL CHAOS
+STACK: React • TypeScript • CSS
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reyhanmills&bg_color=0D1117&color=FF4ECD&line=6C63FF&point=FFFFFF&area=true&hide_border=true" />
+# ✦ GITHUB SIGNALS ✦
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=reyhanmills&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff4ecd&icon_color=ff4ecd" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanmills&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff4ecd" />
 
 </div>
 
+---
+
+<div align="center">
+
+# ✦ CONTRIBUTION MATRIX ✦
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reyhanmills&bg_color=0d1117&color=ff4ecd&line=ff4ecd&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+# ☾ TRANSMISSION END ☾
+
+```txt
+┌──────────────────────────────────────────────┐
+│ > profile.shutdown?                         │
+│                                             │
+│ no.                                         │
+│ building continues...                       │
+│                                             │
+│ [ ♥ thanks for visiting, traveler ♥ ]       │
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:ff4ecd,100:6c63ff&height=140&section=footer" />
+
+</div>
 ---
 
 <div align="center">
