@@ -35,6 +35,6 @@ const reyhan = {
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/ff4ecd/reyhanmills" />
+<img src="https://ghchart.rshah.org/ff4ecd/0d1117/reyhanmills" />
 
 </div>
