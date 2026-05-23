@@ -31,11 +31,10 @@ const reyhan = {
 ---
 
 
-
 ## ✦ Contributions
 
 <div align="center">
 
-[![Reyhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reyhanmills&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/reyhanmills)
+<img src="https://ghchart.rshah.org/ff4ecd/reyhanmills" />
 
 </div>
