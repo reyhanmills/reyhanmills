@@ -7,14 +7,13 @@
 </div>
 
 ---
-
 ## ✦ About Me
 
 ```ts
 const reyhan = {
   role: "Full Stack Developer",
   interests: ["AI", "LLMs", "EdTech"],
-  building: "AI-powered and creative web projects"
+  building: "AI-powered web projects"
 };
 ```
 
@@ -24,7 +23,7 @@ const reyhan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,spring,java,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,spring,java,github,vscode&theme=dark" />
 
 </div>
 
